@@ -1,0 +1,27 @@
+info face="Londrina Shadow" size=64 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=64 base=51 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="londrina_shadow_0.png"
+chars count=12
+char id=46   x=39    y=42    width=11    height=9     xoffset=0     yoffset=44    xadvance=10    page=0  chnl=15
+char id=48   x=135   y=0     width=29    height=40    xoffset=0     yoffset=13    xadvance=28    page=0  chnl=15
+char id=49   x=113   y=0     width=21    height=41    xoffset=-1    yoffset=12    xadvance=20    page=0  chnl=15
+char id=50   x=0     y=0     width=28    height=41    xoffset=0     yoffset=12    xadvance=27    page=0  chnl=15
+char id=51   x=0     y=42    width=27    height=40    xoffset=0     yoffset=13    xadvance=27    page=0  chnl=15
+char id=52   x=165   y=0     width=28    height=40    xoffset=-1    yoffset=13    xadvance=25    page=0  chnl=15
+char id=53   x=29    y=0     width=27    height=41    xoffset=1     yoffset=13    xadvance=27    page=0  chnl=15
+char id=54   x=194   y=0     width=28    height=40    xoffset=0     yoffset=13    xadvance=27    page=0  chnl=15
+char id=55   x=57    y=0     width=27    height=41    xoffset=0     yoffset=12    xadvance=26    page=0  chnl=15
+char id=56   x=85    y=0     width=27    height=41    xoffset=0     yoffset=13    xadvance=26    page=0  chnl=15
+char id=57   x=223   y=0     width=28    height=40    xoffset=0     yoffset=13    xadvance=28    page=0  chnl=15
+char id=58   x=28    y=42    width=10    height=27    xoffset=1     yoffset=26    xadvance=11    page=0  chnl=15
+kernings count=10
+kerning first=52  second=49  amount=-1  
+kerning first=52  second=55  amount=-1  
+kerning first=55  second=52  amount=-2  
+kerning first=46  second=49  amount=-2  
+kerning first=46  second=52  amount=-1  
+kerning first=46  second=48  amount=-1  
+kerning first=46  second=54  amount=-1  
+kerning first=48  second=46  amount=-1  
+kerning first=52  second=46  amount=-1  
+kerning first=55  second=46  amount=-4  
